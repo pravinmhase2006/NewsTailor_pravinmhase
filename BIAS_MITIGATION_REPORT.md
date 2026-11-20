@@ -71,18 +71,18 @@ Normalized Discounted Cumulative Gain at rank 10:
 $$\text{DCG}@10 = \sum_{i=1}^{10} \frac{2^{rel_i} - 1}{\log_2(i + 1)}, \quad \text{NDCG}@10 = \frac{\text{DCG}@10}{\text{IDCG}@10}$$
 
 * **Target Requirement:** $\text{NDCG}@10 > 0.80$
-* **Result Achieved:** **$0.8642$** (Exceeds requirement)
+* **Result Achieved:** **$0.9733$** (Significantly exceeds requirement)
 
 ### 4.2 Diversity & Bias Mitigation Metrics
 
 | Evaluation Scenario | Mean Topic Entropy ($\bar{H}$) | Dominant Topic Share | Filter Bubble Rate |
 | :--- | :---: | :---: | :---: |
-| **Pure Hybrid RecSys (Unmitigated)** | $0.582$ | $54.8\%$ | $84.0\%$ |
-| **With Diversity Injector (Mitigated)** | **$0.785$** | **$26.3\%$** | **$0.0\%$** |
+| **Pure Hybrid RecSys (Unmitigated)** | $0.5406$ | $56.2\%$ | $92.0\%$ |
+| **With Diversity Injector (Mitigated)** | **$0.7152$** | **$27.1\%$** | **$0.0\%$** |
 
 * **Target Requirement:** $\text{Entropy} > 0.70$
-* **Result Achieved:** **$0.785$** (Exceeds requirement)
-* **Filter Bubble Mitigation Rate:** **$100\%$** of detected filter bubbles successfully dispersed.
+* **Result Achieved:** **$0.7152$** (Exceeds requirement $>0.70$)
+* **Filter Bubble Mitigation Rate:** **$92.0\%$** of tested users exhibited severe filter bubbles that were actively broken by the Diversity Injector.
 
 ---
 

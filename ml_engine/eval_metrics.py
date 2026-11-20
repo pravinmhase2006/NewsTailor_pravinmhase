@@ -7,7 +7,7 @@ from lda_modeler import LDAModeler
 from diversity_injector import DiversityInjector
 
 def compute_dcg_at_k(relevance_scores, k=10):
-    relevance_scores = np.asfarray(relevance_scores)[:k]
+    relevance_scores = np.asarray(relevance_scores, dtype=np.float64)[:k]
     if not relevance_scores.size:
         return 0.0
     discounts = np.log2(np.arange(2, relevance_scores.size + 2))

@@ -90,11 +90,11 @@ Tested across a benchmark suite of 50 users and 24,000+ interactions:
 
 | Metric | Target Requirement | NewsTailor Achieved | Status |
 | :--- | :---: | :---: | :---: |
-| **NDCG@10** | $> 0.80$ | **0.864** | ✅ PASSED |
-| **Topic Entropy (Before Mitigation)** | — | **0.582** | *(Filter bubble detected)* |
-| **Topic Entropy (After Mitigation)** | $> 0.70$ | **0.785** | ✅ PASSED |
+| **NDCG@10** | $> 0.80$ | **0.9733** | ✅ PASSED (Target $>0.80$) |
+| **Topic Entropy (Before Mitigation)** | — | **0.5406** | *(Filter bubble detected)* |
+| **Topic Entropy (After Mitigation)** | $> 0.70$ | **0.7152** | ✅ PASSED (Target $>0.70$) |
 | **ANN Query Latency (FAISS)** | $< 1.0$ ms | **0.11 ms** | ✅ PASSED |
-| **Filter Bubbles Broken** | — | **100% of tested users** | ✅ PASSED |
+| **Filter Bubble Mitigation Rate** | — | **92.0% of users mitigated** | ✅ PASSED |
 
 ---
 
