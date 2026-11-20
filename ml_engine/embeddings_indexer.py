@@ -25,10 +25,16 @@ class EmbeddingsIndexer:
             print(f"Loading Sentence-BERT model: {self.model_name}...")
             self.model = SentenceTransformer(self.model_name)
                 
-    def encode_texts(self, texts, batch_size=256):
-        self._load_model()
-        raw_embs = self.model.encode(texts, batch_size=batch_size, show_progress_bar=True, normalize_embeddings=True)
-        raw_embs = np.array(raw_embs, dtype=np.float32)
+    def encode_texts(self, texts, batch_size=256, cache_path="raw_embeddings_384.npy"):
+        if os.path.exists(cache_path):
+            print(f"Loading cached Sentence-BERT embeddings from {cache_path}...")
+            raw_embs = np.load(cache_path)
+        else:
+            self._load_model()
+            raw_embs = self.model.encode(texts, batch_size=batch_size, show_progress_bar=True, normalize_embeddings=True)
+            raw_embs = np.array(raw_embs, dtype=np.float32)
+            np.save(cache_path, raw_embs)
+            print(f"Saved raw embeddings to {cache_path}")
         
         # If output dimension is not 512, project deterministically to exactly 512 dimensions
         curr_dim = raw_embs.shape[1]
@@ -36,14 +42,16 @@ class EmbeddingsIndexer:
             print(f"Projecting embeddings from {curr_dim} to {self.target_dim} dimensions...")
             if self.projection_matrix is None:
                 rng = np.random.RandomState(42)
-                # Random Gaussian projection matrix
-                P = rng.randn(curr_dim, self.target_dim).astype(np.float32)
-                q, _ = np.linalg.qr(P) # Orthogonal projection
-                self.projection_matrix = q[:, :self.target_dim]
+                # To get an orthogonal projection from 384 -> 512:
+                # QR decomposition of a (512, 384) matrix yields Q of shape (512, 384)
+                # Its transpose Q.T is (384, 512)
+                P_rand = rng.randn(self.target_dim, curr_dim).astype(np.float32)
+                q, _ = np.linalg.qr(P_rand) # q is (512, curr_dim)
+                self.projection_matrix = q.T # (curr_dim, target_dim) -> (384, 512)
                 
-            projected = np.dot(raw_embs, self.projection_matrix)
-            # Re-normalize to unit length for cosine similarity
+            projected = np.dot(raw_embs, self.projection_matrix).astype(np.float32)
             faiss.normalize_L2(projected)
+            print(f"Projected shape: {projected.shape} (target dim: {self.target_dim})")
             return projected
         else:
             faiss.normalize_L2(raw_embs)
