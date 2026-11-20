@@ -1,0 +1,7297 @@
+[
+  {
+    "user_id": "usr_0001",
+    "username": "reader_1",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0002",
+    "username": "reader_2",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0003",
+    "username": "reader_3",
+    "archetype": "Market & Fiscal Conservative",
+    "pref_cats": [
+      "Economy & Finance",
+      "Politics"
+    ],
+    "pref_align": [
+      "Right",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0004",
+    "username": "reader_4",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0005",
+    "username": "reader_5",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0006",
+    "username": "reader_6",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0007",
+    "username": "reader_7",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0008",
+    "username": "reader_8",
+    "archetype": "General News Reader",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance",
+      "Technology",
+      "Politics",
+      "Climate & Environment",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center-Left",
+      "Center-Right",
+      "Center",
+      "Left",
+      "Right"
+    ]
+  },
+  {
+    "user_id": "usr_0009",
+    "username": "reader_9",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0010",
+    "username": "reader_10",
+    "archetype": "General News Reader",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance",
+      "Technology",
+      "Politics",
+      "Climate & Environment",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center-Left",
+      "Center-Right",
+      "Center",
+      "Left",
+      "Right"
+    ]
+  },
+  {
+    "user_id": "usr_0011",
+    "username": "reader_11",
+    "archetype": "Diplomacy & Global Affairs",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0012",
+    "username": "reader_12",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0013",
+    "username": "reader_13",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0014",
+    "username": "reader_14",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0015",
+    "username": "reader_15",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0016",
+    "username": "reader_16",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0017",
+    "username": "reader_17",
+    "archetype": "General News Reader",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance",
+      "Technology",
+      "Politics",
+      "Climate & Environment",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center-Left",
+      "Center-Right",
+      "Center",
+      "Left",
+      "Right"
+    ]
+  },
+  {
+    "user_id": "usr_0018",
+    "username": "reader_18",
+    "archetype": "General News Reader",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance",
+      "Technology",
+      "Politics",
+      "Climate & Environment",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center-Left",
+      "Center-Right",
+      "Center",
+      "Left",
+      "Right"
+    ]
+  },
+  {
+    "user_id": "usr_0019",
+    "username": "reader_19",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0020",
+    "username": "reader_20",
+    "archetype": "General News Reader",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance",
+      "Technology",
+      "Politics",
+      "Climate & Environment",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center-Left",
+      "Center-Right",
+      "Center",
+      "Left",
+      "Right"
+    ]
+  },
+  {
+    "user_id": "usr_0021",
+    "username": "reader_21",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0022",
+    "username": "reader_22",
+    "archetype": "General News Reader",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance",
+      "Technology",
+      "Politics",
+      "Climate & Environment",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center-Left",
+      "Center-Right",
+      "Center",
+      "Left",
+      "Right"
+    ]
+  },
+  {
+    "user_id": "usr_0023",
+    "username": "reader_23",
+    "archetype": "Diplomacy & Global Affairs",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0024",
+    "username": "reader_24",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0025",
+    "username": "reader_25",
+    "archetype": "Diplomacy & Global Affairs",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0026",
+    "username": "reader_26",
+    "archetype": "General News Reader",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance",
+      "Technology",
+      "Politics",
+      "Climate & Environment",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center-Left",
+      "Center-Right",
+      "Center",
+      "Left",
+      "Right"
+    ]
+  },
+  {
+    "user_id": "usr_0027",
+    "username": "reader_27",
+    "archetype": "Market & Fiscal Conservative",
+    "pref_cats": [
+      "Economy & Finance",
+      "Politics"
+    ],
+    "pref_align": [
+      "Right",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0028",
+    "username": "reader_28",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0029",
+    "username": "reader_29",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0030",
+    "username": "reader_30",
+    "archetype": "Diplomacy & Global Affairs",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0031",
+    "username": "reader_31",
+    "archetype": "Market & Fiscal Conservative",
+    "pref_cats": [
+      "Economy & Finance",
+      "Politics"
+    ],
+    "pref_align": [
+      "Right",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0032",
+    "username": "reader_32",
+    "archetype": "Market & Fiscal Conservative",
+    "pref_cats": [
+      "Economy & Finance",
+      "Politics"
+    ],
+    "pref_align": [
+      "Right",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0033",
+    "username": "reader_33",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0034",
+    "username": "reader_34",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0035",
+    "username": "reader_35",
+    "archetype": "Market & Fiscal Conservative",
+    "pref_cats": [
+      "Economy & Finance",
+      "Politics"
+    ],
+    "pref_align": [
+      "Right",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0036",
+    "username": "reader_36",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0037",
+    "username": "reader_37",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0038",
+    "username": "reader_38",
+    "archetype": "Diplomacy & Global Affairs",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0039",
+    "username": "reader_39",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0040",
+    "username": "reader_40",
+    "archetype": "Market & Fiscal Conservative",
+    "pref_cats": [
+      "Economy & Finance",
+      "Politics"
+    ],
+    "pref_align": [
+      "Right",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0041",
+    "username": "reader_41",
+    "archetype": "Market & Fiscal Conservative",
+    "pref_cats": [
+      "Economy & Finance",
+      "Politics"
+    ],
+    "pref_align": [
+      "Right",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0042",
+    "username": "reader_42",
+    "archetype": "General News Reader",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance",
+      "Technology",
+      "Politics",
+      "Climate & Environment",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center-Left",
+      "Center-Right",
+      "Center",
+      "Left",
+      "Right"
+    ]
+  },
+  {
+    "user_id": "usr_0043",
+    "username": "reader_43",
+    "archetype": "Market & Fiscal Conservative",
+    "pref_cats": [
+      "Economy & Finance",
+      "Politics"
+    ],
+    "pref_align": [
+      "Right",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0044",
+    "username": "reader_44",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0045",
+    "username": "reader_45",
+    "archetype": "Diplomacy & Global Affairs",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0046",
+    "username": "reader_46",
+    "archetype": "General News Reader",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance",
+      "Technology",
+      "Politics",
+      "Climate & Environment",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center-Left",
+      "Center-Right",
+      "Center",
+      "Left",
+      "Right"
+    ]
+  },
+  {
+    "user_id": "usr_0047",
+    "username": "reader_47",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0048",
+    "username": "reader_48",
+    "archetype": "Diplomacy & Global Affairs",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0049",
+    "username": "reader_49",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0050",
+    "username": "reader_50",
+    "archetype": "General News Reader",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance",
+      "Technology",
+      "Politics",
+      "Climate & Environment",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center-Left",
+      "Center-Right",
+      "Center",
+      "Left",
+      "Right"
+    ]
+  },
+  {
+    "user_id": "usr_0051",
+    "username": "reader_51",
+    "archetype": "Market & Fiscal Conservative",
+    "pref_cats": [
+      "Economy & Finance",
+      "Politics"
+    ],
+    "pref_align": [
+      "Right",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0052",
+    "username": "reader_52",
+    "archetype": "General News Reader",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance",
+      "Technology",
+      "Politics",
+      "Climate & Environment",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center-Left",
+      "Center-Right",
+      "Center",
+      "Left",
+      "Right"
+    ]
+  },
+  {
+    "user_id": "usr_0053",
+    "username": "reader_53",
+    "archetype": "Market & Fiscal Conservative",
+    "pref_cats": [
+      "Economy & Finance",
+      "Politics"
+    ],
+    "pref_align": [
+      "Right",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0054",
+    "username": "reader_54",
+    "archetype": "General News Reader",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance",
+      "Technology",
+      "Politics",
+      "Climate & Environment",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center-Left",
+      "Center-Right",
+      "Center",
+      "Left",
+      "Right"
+    ]
+  },
+  {
+    "user_id": "usr_0055",
+    "username": "reader_55",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0056",
+    "username": "reader_56",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0057",
+    "username": "reader_57",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0058",
+    "username": "reader_58",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0059",
+    "username": "reader_59",
+    "archetype": "Market & Fiscal Conservative",
+    "pref_cats": [
+      "Economy & Finance",
+      "Politics"
+    ],
+    "pref_align": [
+      "Right",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0060",
+    "username": "reader_60",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0061",
+    "username": "reader_61",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0062",
+    "username": "reader_62",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0063",
+    "username": "reader_63",
+    "archetype": "Diplomacy & Global Affairs",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0064",
+    "username": "reader_64",
+    "archetype": "Market & Fiscal Conservative",
+    "pref_cats": [
+      "Economy & Finance",
+      "Politics"
+    ],
+    "pref_align": [
+      "Right",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0065",
+    "username": "reader_65",
+    "archetype": "Diplomacy & Global Affairs",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0066",
+    "username": "reader_66",
+    "archetype": "Market & Fiscal Conservative",
+    "pref_cats": [
+      "Economy & Finance",
+      "Politics"
+    ],
+    "pref_align": [
+      "Right",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0067",
+    "username": "reader_67",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0068",
+    "username": "reader_68",
+    "archetype": "Market & Fiscal Conservative",
+    "pref_cats": [
+      "Economy & Finance",
+      "Politics"
+    ],
+    "pref_align": [
+      "Right",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0069",
+    "username": "reader_69",
+    "archetype": "Market & Fiscal Conservative",
+    "pref_cats": [
+      "Economy & Finance",
+      "Politics"
+    ],
+    "pref_align": [
+      "Right",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0070",
+    "username": "reader_70",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0071",
+    "username": "reader_71",
+    "archetype": "Market & Fiscal Conservative",
+    "pref_cats": [
+      "Economy & Finance",
+      "Politics"
+    ],
+    "pref_align": [
+      "Right",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0072",
+    "username": "reader_72",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0073",
+    "username": "reader_73",
+    "archetype": "General News Reader",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance",
+      "Technology",
+      "Politics",
+      "Climate & Environment",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center-Left",
+      "Center-Right",
+      "Center",
+      "Left",
+      "Right"
+    ]
+  },
+  {
+    "user_id": "usr_0074",
+    "username": "reader_74",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0075",
+    "username": "reader_75",
+    "archetype": "General News Reader",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance",
+      "Technology",
+      "Politics",
+      "Climate & Environment",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center-Left",
+      "Center-Right",
+      "Center",
+      "Left",
+      "Right"
+    ]
+  },
+  {
+    "user_id": "usr_0076",
+    "username": "reader_76",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0077",
+    "username": "reader_77",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0078",
+    "username": "reader_78",
+    "archetype": "Diplomacy & Global Affairs",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0079",
+    "username": "reader_79",
+    "archetype": "Diplomacy & Global Affairs",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0080",
+    "username": "reader_80",
+    "archetype": "Market & Fiscal Conservative",
+    "pref_cats": [
+      "Economy & Finance",
+      "Politics"
+    ],
+    "pref_align": [
+      "Right",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0081",
+    "username": "reader_81",
+    "archetype": "General News Reader",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance",
+      "Technology",
+      "Politics",
+      "Climate & Environment",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center-Left",
+      "Center-Right",
+      "Center",
+      "Left",
+      "Right"
+    ]
+  },
+  {
+    "user_id": "usr_0082",
+    "username": "reader_82",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0083",
+    "username": "reader_83",
+    "archetype": "Market & Fiscal Conservative",
+    "pref_cats": [
+      "Economy & Finance",
+      "Politics"
+    ],
+    "pref_align": [
+      "Right",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0084",
+    "username": "reader_84",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0085",
+    "username": "reader_85",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0086",
+    "username": "reader_86",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0087",
+    "username": "reader_87",
+    "archetype": "Market & Fiscal Conservative",
+    "pref_cats": [
+      "Economy & Finance",
+      "Politics"
+    ],
+    "pref_align": [
+      "Right",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0088",
+    "username": "reader_88",
+    "archetype": "Diplomacy & Global Affairs",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0089",
+    "username": "reader_89",
+    "archetype": "Market & Fiscal Conservative",
+    "pref_cats": [
+      "Economy & Finance",
+      "Politics"
+    ],
+    "pref_align": [
+      "Right",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0090",
+    "username": "reader_90",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0091",
+    "username": "reader_91",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0092",
+    "username": "reader_92",
+    "archetype": "General News Reader",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance",
+      "Technology",
+      "Politics",
+      "Climate & Environment",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center-Left",
+      "Center-Right",
+      "Center",
+      "Left",
+      "Right"
+    ]
+  },
+  {
+    "user_id": "usr_0093",
+    "username": "reader_93",
+    "archetype": "Market & Fiscal Conservative",
+    "pref_cats": [
+      "Economy & Finance",
+      "Politics"
+    ],
+    "pref_align": [
+      "Right",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0094",
+    "username": "reader_94",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0095",
+    "username": "reader_95",
+    "archetype": "Diplomacy & Global Affairs",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0096",
+    "username": "reader_96",
+    "archetype": "Diplomacy & Global Affairs",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0097",
+    "username": "reader_97",
+    "archetype": "Diplomacy & Global Affairs",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0098",
+    "username": "reader_98",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0099",
+    "username": "reader_99",
+    "archetype": "Market & Fiscal Conservative",
+    "pref_cats": [
+      "Economy & Finance",
+      "Politics"
+    ],
+    "pref_align": [
+      "Right",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0100",
+    "username": "reader_100",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0101",
+    "username": "reader_101",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0102",
+    "username": "reader_102",
+    "archetype": "General News Reader",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance",
+      "Technology",
+      "Politics",
+      "Climate & Environment",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center-Left",
+      "Center-Right",
+      "Center",
+      "Left",
+      "Right"
+    ]
+  },
+  {
+    "user_id": "usr_0103",
+    "username": "reader_103",
+    "archetype": "General News Reader",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance",
+      "Technology",
+      "Politics",
+      "Climate & Environment",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center-Left",
+      "Center-Right",
+      "Center",
+      "Left",
+      "Right"
+    ]
+  },
+  {
+    "user_id": "usr_0104",
+    "username": "reader_104",
+    "archetype": "Market & Fiscal Conservative",
+    "pref_cats": [
+      "Economy & Finance",
+      "Politics"
+    ],
+    "pref_align": [
+      "Right",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0105",
+    "username": "reader_105",
+    "archetype": "General News Reader",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance",
+      "Technology",
+      "Politics",
+      "Climate & Environment",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center-Left",
+      "Center-Right",
+      "Center",
+      "Left",
+      "Right"
+    ]
+  },
+  {
+    "user_id": "usr_0106",
+    "username": "reader_106",
+    "archetype": "Diplomacy & Global Affairs",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0107",
+    "username": "reader_107",
+    "archetype": "General News Reader",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance",
+      "Technology",
+      "Politics",
+      "Climate & Environment",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center-Left",
+      "Center-Right",
+      "Center",
+      "Left",
+      "Right"
+    ]
+  },
+  {
+    "user_id": "usr_0108",
+    "username": "reader_108",
+    "archetype": "Diplomacy & Global Affairs",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0109",
+    "username": "reader_109",
+    "archetype": "Market & Fiscal Conservative",
+    "pref_cats": [
+      "Economy & Finance",
+      "Politics"
+    ],
+    "pref_align": [
+      "Right",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0110",
+    "username": "reader_110",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0111",
+    "username": "reader_111",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0112",
+    "username": "reader_112",
+    "archetype": "General News Reader",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance",
+      "Technology",
+      "Politics",
+      "Climate & Environment",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center-Left",
+      "Center-Right",
+      "Center",
+      "Left",
+      "Right"
+    ]
+  },
+  {
+    "user_id": "usr_0113",
+    "username": "reader_113",
+    "archetype": "Diplomacy & Global Affairs",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0114",
+    "username": "reader_114",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0115",
+    "username": "reader_115",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0116",
+    "username": "reader_116",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0117",
+    "username": "reader_117",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0118",
+    "username": "reader_118",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0119",
+    "username": "reader_119",
+    "archetype": "Diplomacy & Global Affairs",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0120",
+    "username": "reader_120",
+    "archetype": "General News Reader",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance",
+      "Technology",
+      "Politics",
+      "Climate & Environment",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center-Left",
+      "Center-Right",
+      "Center",
+      "Left",
+      "Right"
+    ]
+  },
+  {
+    "user_id": "usr_0121",
+    "username": "reader_121",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0122",
+    "username": "reader_122",
+    "archetype": "Diplomacy & Global Affairs",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0123",
+    "username": "reader_123",
+    "archetype": "Diplomacy & Global Affairs",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0124",
+    "username": "reader_124",
+    "archetype": "General News Reader",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance",
+      "Technology",
+      "Politics",
+      "Climate & Environment",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center-Left",
+      "Center-Right",
+      "Center",
+      "Left",
+      "Right"
+    ]
+  },
+  {
+    "user_id": "usr_0125",
+    "username": "reader_125",
+    "archetype": "Diplomacy & Global Affairs",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0126",
+    "username": "reader_126",
+    "archetype": "General News Reader",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance",
+      "Technology",
+      "Politics",
+      "Climate & Environment",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center-Left",
+      "Center-Right",
+      "Center",
+      "Left",
+      "Right"
+    ]
+  },
+  {
+    "user_id": "usr_0127",
+    "username": "reader_127",
+    "archetype": "Market & Fiscal Conservative",
+    "pref_cats": [
+      "Economy & Finance",
+      "Politics"
+    ],
+    "pref_align": [
+      "Right",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0128",
+    "username": "reader_128",
+    "archetype": "General News Reader",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance",
+      "Technology",
+      "Politics",
+      "Climate & Environment",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center-Left",
+      "Center-Right",
+      "Center",
+      "Left",
+      "Right"
+    ]
+  },
+  {
+    "user_id": "usr_0129",
+    "username": "reader_129",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0130",
+    "username": "reader_130",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0131",
+    "username": "reader_131",
+    "archetype": "General News Reader",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance",
+      "Technology",
+      "Politics",
+      "Climate & Environment",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center-Left",
+      "Center-Right",
+      "Center",
+      "Left",
+      "Right"
+    ]
+  },
+  {
+    "user_id": "usr_0132",
+    "username": "reader_132",
+    "archetype": "Market & Fiscal Conservative",
+    "pref_cats": [
+      "Economy & Finance",
+      "Politics"
+    ],
+    "pref_align": [
+      "Right",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0133",
+    "username": "reader_133",
+    "archetype": "Market & Fiscal Conservative",
+    "pref_cats": [
+      "Economy & Finance",
+      "Politics"
+    ],
+    "pref_align": [
+      "Right",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0134",
+    "username": "reader_134",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0135",
+    "username": "reader_135",
+    "archetype": "Market & Fiscal Conservative",
+    "pref_cats": [
+      "Economy & Finance",
+      "Politics"
+    ],
+    "pref_align": [
+      "Right",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0136",
+    "username": "reader_136",
+    "archetype": "Diplomacy & Global Affairs",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0137",
+    "username": "reader_137",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0138",
+    "username": "reader_138",
+    "archetype": "Diplomacy & Global Affairs",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0139",
+    "username": "reader_139",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0140",
+    "username": "reader_140",
+    "archetype": "Market & Fiscal Conservative",
+    "pref_cats": [
+      "Economy & Finance",
+      "Politics"
+    ],
+    "pref_align": [
+      "Right",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0141",
+    "username": "reader_141",
+    "archetype": "General News Reader",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance",
+      "Technology",
+      "Politics",
+      "Climate & Environment",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center-Left",
+      "Center-Right",
+      "Center",
+      "Left",
+      "Right"
+    ]
+  },
+  {
+    "user_id": "usr_0142",
+    "username": "reader_142",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0143",
+    "username": "reader_143",
+    "archetype": "General News Reader",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance",
+      "Technology",
+      "Politics",
+      "Climate & Environment",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center-Left",
+      "Center-Right",
+      "Center",
+      "Left",
+      "Right"
+    ]
+  },
+  {
+    "user_id": "usr_0144",
+    "username": "reader_144",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0145",
+    "username": "reader_145",
+    "archetype": "Market & Fiscal Conservative",
+    "pref_cats": [
+      "Economy & Finance",
+      "Politics"
+    ],
+    "pref_align": [
+      "Right",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0146",
+    "username": "reader_146",
+    "archetype": "General News Reader",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance",
+      "Technology",
+      "Politics",
+      "Climate & Environment",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center-Left",
+      "Center-Right",
+      "Center",
+      "Left",
+      "Right"
+    ]
+  },
+  {
+    "user_id": "usr_0147",
+    "username": "reader_147",
+    "archetype": "General News Reader",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance",
+      "Technology",
+      "Politics",
+      "Climate & Environment",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center-Left",
+      "Center-Right",
+      "Center",
+      "Left",
+      "Right"
+    ]
+  },
+  {
+    "user_id": "usr_0148",
+    "username": "reader_148",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0149",
+    "username": "reader_149",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0150",
+    "username": "reader_150",
+    "archetype": "Market & Fiscal Conservative",
+    "pref_cats": [
+      "Economy & Finance",
+      "Politics"
+    ],
+    "pref_align": [
+      "Right",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0151",
+    "username": "reader_151",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0152",
+    "username": "reader_152",
+    "archetype": "General News Reader",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance",
+      "Technology",
+      "Politics",
+      "Climate & Environment",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center-Left",
+      "Center-Right",
+      "Center",
+      "Left",
+      "Right"
+    ]
+  },
+  {
+    "user_id": "usr_0153",
+    "username": "reader_153",
+    "archetype": "General News Reader",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance",
+      "Technology",
+      "Politics",
+      "Climate & Environment",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center-Left",
+      "Center-Right",
+      "Center",
+      "Left",
+      "Right"
+    ]
+  },
+  {
+    "user_id": "usr_0154",
+    "username": "reader_154",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0155",
+    "username": "reader_155",
+    "archetype": "General News Reader",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance",
+      "Technology",
+      "Politics",
+      "Climate & Environment",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center-Left",
+      "Center-Right",
+      "Center",
+      "Left",
+      "Right"
+    ]
+  },
+  {
+    "user_id": "usr_0156",
+    "username": "reader_156",
+    "archetype": "Market & Fiscal Conservative",
+    "pref_cats": [
+      "Economy & Finance",
+      "Politics"
+    ],
+    "pref_align": [
+      "Right",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0157",
+    "username": "reader_157",
+    "archetype": "Diplomacy & Global Affairs",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0158",
+    "username": "reader_158",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0159",
+    "username": "reader_159",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0160",
+    "username": "reader_160",
+    "archetype": "Market & Fiscal Conservative",
+    "pref_cats": [
+      "Economy & Finance",
+      "Politics"
+    ],
+    "pref_align": [
+      "Right",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0161",
+    "username": "reader_161",
+    "archetype": "Market & Fiscal Conservative",
+    "pref_cats": [
+      "Economy & Finance",
+      "Politics"
+    ],
+    "pref_align": [
+      "Right",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0162",
+    "username": "reader_162",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0163",
+    "username": "reader_163",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0164",
+    "username": "reader_164",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0165",
+    "username": "reader_165",
+    "archetype": "General News Reader",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance",
+      "Technology",
+      "Politics",
+      "Climate & Environment",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center-Left",
+      "Center-Right",
+      "Center",
+      "Left",
+      "Right"
+    ]
+  },
+  {
+    "user_id": "usr_0166",
+    "username": "reader_166",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0167",
+    "username": "reader_167",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0168",
+    "username": "reader_168",
+    "archetype": "Diplomacy & Global Affairs",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0169",
+    "username": "reader_169",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0170",
+    "username": "reader_170",
+    "archetype": "General News Reader",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance",
+      "Technology",
+      "Politics",
+      "Climate & Environment",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center-Left",
+      "Center-Right",
+      "Center",
+      "Left",
+      "Right"
+    ]
+  },
+  {
+    "user_id": "usr_0171",
+    "username": "reader_171",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0172",
+    "username": "reader_172",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0173",
+    "username": "reader_173",
+    "archetype": "Diplomacy & Global Affairs",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0174",
+    "username": "reader_174",
+    "archetype": "General News Reader",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance",
+      "Technology",
+      "Politics",
+      "Climate & Environment",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center-Left",
+      "Center-Right",
+      "Center",
+      "Left",
+      "Right"
+    ]
+  },
+  {
+    "user_id": "usr_0175",
+    "username": "reader_175",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0176",
+    "username": "reader_176",
+    "archetype": "Market & Fiscal Conservative",
+    "pref_cats": [
+      "Economy & Finance",
+      "Politics"
+    ],
+    "pref_align": [
+      "Right",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0177",
+    "username": "reader_177",
+    "archetype": "General News Reader",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance",
+      "Technology",
+      "Politics",
+      "Climate & Environment",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center-Left",
+      "Center-Right",
+      "Center",
+      "Left",
+      "Right"
+    ]
+  },
+  {
+    "user_id": "usr_0178",
+    "username": "reader_178",
+    "archetype": "General News Reader",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance",
+      "Technology",
+      "Politics",
+      "Climate & Environment",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center-Left",
+      "Center-Right",
+      "Center",
+      "Left",
+      "Right"
+    ]
+  },
+  {
+    "user_id": "usr_0179",
+    "username": "reader_179",
+    "archetype": "Diplomacy & Global Affairs",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0180",
+    "username": "reader_180",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0181",
+    "username": "reader_181",
+    "archetype": "General News Reader",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance",
+      "Technology",
+      "Politics",
+      "Climate & Environment",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center-Left",
+      "Center-Right",
+      "Center",
+      "Left",
+      "Right"
+    ]
+  },
+  {
+    "user_id": "usr_0182",
+    "username": "reader_182",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0183",
+    "username": "reader_183",
+    "archetype": "Market & Fiscal Conservative",
+    "pref_cats": [
+      "Economy & Finance",
+      "Politics"
+    ],
+    "pref_align": [
+      "Right",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0184",
+    "username": "reader_184",
+    "archetype": "Diplomacy & Global Affairs",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0185",
+    "username": "reader_185",
+    "archetype": "Market & Fiscal Conservative",
+    "pref_cats": [
+      "Economy & Finance",
+      "Politics"
+    ],
+    "pref_align": [
+      "Right",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0186",
+    "username": "reader_186",
+    "archetype": "Diplomacy & Global Affairs",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0187",
+    "username": "reader_187",
+    "archetype": "General News Reader",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance",
+      "Technology",
+      "Politics",
+      "Climate & Environment",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center-Left",
+      "Center-Right",
+      "Center",
+      "Left",
+      "Right"
+    ]
+  },
+  {
+    "user_id": "usr_0188",
+    "username": "reader_188",
+    "archetype": "Diplomacy & Global Affairs",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0189",
+    "username": "reader_189",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0190",
+    "username": "reader_190",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0191",
+    "username": "reader_191",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0192",
+    "username": "reader_192",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0193",
+    "username": "reader_193",
+    "archetype": "Market & Fiscal Conservative",
+    "pref_cats": [
+      "Economy & Finance",
+      "Politics"
+    ],
+    "pref_align": [
+      "Right",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0194",
+    "username": "reader_194",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0195",
+    "username": "reader_195",
+    "archetype": "General News Reader",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance",
+      "Technology",
+      "Politics",
+      "Climate & Environment",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center-Left",
+      "Center-Right",
+      "Center",
+      "Left",
+      "Right"
+    ]
+  },
+  {
+    "user_id": "usr_0196",
+    "username": "reader_196",
+    "archetype": "General News Reader",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance",
+      "Technology",
+      "Politics",
+      "Climate & Environment",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center-Left",
+      "Center-Right",
+      "Center",
+      "Left",
+      "Right"
+    ]
+  },
+  {
+    "user_id": "usr_0197",
+    "username": "reader_197",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0198",
+    "username": "reader_198",
+    "archetype": "General News Reader",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance",
+      "Technology",
+      "Politics",
+      "Climate & Environment",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center-Left",
+      "Center-Right",
+      "Center",
+      "Left",
+      "Right"
+    ]
+  },
+  {
+    "user_id": "usr_0199",
+    "username": "reader_199",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0200",
+    "username": "reader_200",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0201",
+    "username": "reader_201",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0202",
+    "username": "reader_202",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0203",
+    "username": "reader_203",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0204",
+    "username": "reader_204",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0205",
+    "username": "reader_205",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0206",
+    "username": "reader_206",
+    "archetype": "Market & Fiscal Conservative",
+    "pref_cats": [
+      "Economy & Finance",
+      "Politics"
+    ],
+    "pref_align": [
+      "Right",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0207",
+    "username": "reader_207",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0208",
+    "username": "reader_208",
+    "archetype": "General News Reader",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance",
+      "Technology",
+      "Politics",
+      "Climate & Environment",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center-Left",
+      "Center-Right",
+      "Center",
+      "Left",
+      "Right"
+    ]
+  },
+  {
+    "user_id": "usr_0209",
+    "username": "reader_209",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0210",
+    "username": "reader_210",
+    "archetype": "Market & Fiscal Conservative",
+    "pref_cats": [
+      "Economy & Finance",
+      "Politics"
+    ],
+    "pref_align": [
+      "Right",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0211",
+    "username": "reader_211",
+    "archetype": "Diplomacy & Global Affairs",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0212",
+    "username": "reader_212",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0213",
+    "username": "reader_213",
+    "archetype": "General News Reader",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance",
+      "Technology",
+      "Politics",
+      "Climate & Environment",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center-Left",
+      "Center-Right",
+      "Center",
+      "Left",
+      "Right"
+    ]
+  },
+  {
+    "user_id": "usr_0214",
+    "username": "reader_214",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0215",
+    "username": "reader_215",
+    "archetype": "General News Reader",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance",
+      "Technology",
+      "Politics",
+      "Climate & Environment",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center-Left",
+      "Center-Right",
+      "Center",
+      "Left",
+      "Right"
+    ]
+  },
+  {
+    "user_id": "usr_0216",
+    "username": "reader_216",
+    "archetype": "General News Reader",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance",
+      "Technology",
+      "Politics",
+      "Climate & Environment",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center-Left",
+      "Center-Right",
+      "Center",
+      "Left",
+      "Right"
+    ]
+  },
+  {
+    "user_id": "usr_0217",
+    "username": "reader_217",
+    "archetype": "Diplomacy & Global Affairs",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0218",
+    "username": "reader_218",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0219",
+    "username": "reader_219",
+    "archetype": "Diplomacy & Global Affairs",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0220",
+    "username": "reader_220",
+    "archetype": "Diplomacy & Global Affairs",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0221",
+    "username": "reader_221",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0222",
+    "username": "reader_222",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0223",
+    "username": "reader_223",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0224",
+    "username": "reader_224",
+    "archetype": "Diplomacy & Global Affairs",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0225",
+    "username": "reader_225",
+    "archetype": "Market & Fiscal Conservative",
+    "pref_cats": [
+      "Economy & Finance",
+      "Politics"
+    ],
+    "pref_align": [
+      "Right",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0226",
+    "username": "reader_226",
+    "archetype": "Diplomacy & Global Affairs",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0227",
+    "username": "reader_227",
+    "archetype": "Diplomacy & Global Affairs",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0228",
+    "username": "reader_228",
+    "archetype": "Diplomacy & Global Affairs",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0229",
+    "username": "reader_229",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0230",
+    "username": "reader_230",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0231",
+    "username": "reader_231",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0232",
+    "username": "reader_232",
+    "archetype": "Diplomacy & Global Affairs",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0233",
+    "username": "reader_233",
+    "archetype": "Market & Fiscal Conservative",
+    "pref_cats": [
+      "Economy & Finance",
+      "Politics"
+    ],
+    "pref_align": [
+      "Right",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0234",
+    "username": "reader_234",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0235",
+    "username": "reader_235",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0236",
+    "username": "reader_236",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0237",
+    "username": "reader_237",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0238",
+    "username": "reader_238",
+    "archetype": "General News Reader",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance",
+      "Technology",
+      "Politics",
+      "Climate & Environment",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center-Left",
+      "Center-Right",
+      "Center",
+      "Left",
+      "Right"
+    ]
+  },
+  {
+    "user_id": "usr_0239",
+    "username": "reader_239",
+    "archetype": "Diplomacy & Global Affairs",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0240",
+    "username": "reader_240",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0241",
+    "username": "reader_241",
+    "archetype": "Diplomacy & Global Affairs",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0242",
+    "username": "reader_242",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0243",
+    "username": "reader_243",
+    "archetype": "Market & Fiscal Conservative",
+    "pref_cats": [
+      "Economy & Finance",
+      "Politics"
+    ],
+    "pref_align": [
+      "Right",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0244",
+    "username": "reader_244",
+    "archetype": "Diplomacy & Global Affairs",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0245",
+    "username": "reader_245",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0246",
+    "username": "reader_246",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0247",
+    "username": "reader_247",
+    "archetype": "Diplomacy & Global Affairs",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0248",
+    "username": "reader_248",
+    "archetype": "General News Reader",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance",
+      "Technology",
+      "Politics",
+      "Climate & Environment",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center-Left",
+      "Center-Right",
+      "Center",
+      "Left",
+      "Right"
+    ]
+  },
+  {
+    "user_id": "usr_0249",
+    "username": "reader_249",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0250",
+    "username": "reader_250",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0251",
+    "username": "reader_251",
+    "archetype": "General News Reader",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance",
+      "Technology",
+      "Politics",
+      "Climate & Environment",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center-Left",
+      "Center-Right",
+      "Center",
+      "Left",
+      "Right"
+    ]
+  },
+  {
+    "user_id": "usr_0252",
+    "username": "reader_252",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0253",
+    "username": "reader_253",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0254",
+    "username": "reader_254",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0255",
+    "username": "reader_255",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0256",
+    "username": "reader_256",
+    "archetype": "Diplomacy & Global Affairs",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0257",
+    "username": "reader_257",
+    "archetype": "Diplomacy & Global Affairs",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0258",
+    "username": "reader_258",
+    "archetype": "Diplomacy & Global Affairs",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0259",
+    "username": "reader_259",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0260",
+    "username": "reader_260",
+    "archetype": "Diplomacy & Global Affairs",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0261",
+    "username": "reader_261",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0262",
+    "username": "reader_262",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0263",
+    "username": "reader_263",
+    "archetype": "Diplomacy & Global Affairs",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0264",
+    "username": "reader_264",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0265",
+    "username": "reader_265",
+    "archetype": "Diplomacy & Global Affairs",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0266",
+    "username": "reader_266",
+    "archetype": "Market & Fiscal Conservative",
+    "pref_cats": [
+      "Economy & Finance",
+      "Politics"
+    ],
+    "pref_align": [
+      "Right",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0267",
+    "username": "reader_267",
+    "archetype": "Diplomacy & Global Affairs",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0268",
+    "username": "reader_268",
+    "archetype": "Market & Fiscal Conservative",
+    "pref_cats": [
+      "Economy & Finance",
+      "Politics"
+    ],
+    "pref_align": [
+      "Right",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0269",
+    "username": "reader_269",
+    "archetype": "Diplomacy & Global Affairs",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0270",
+    "username": "reader_270",
+    "archetype": "General News Reader",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance",
+      "Technology",
+      "Politics",
+      "Climate & Environment",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center-Left",
+      "Center-Right",
+      "Center",
+      "Left",
+      "Right"
+    ]
+  },
+  {
+    "user_id": "usr_0271",
+    "username": "reader_271",
+    "archetype": "Diplomacy & Global Affairs",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0272",
+    "username": "reader_272",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0273",
+    "username": "reader_273",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0274",
+    "username": "reader_274",
+    "archetype": "Market & Fiscal Conservative",
+    "pref_cats": [
+      "Economy & Finance",
+      "Politics"
+    ],
+    "pref_align": [
+      "Right",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0275",
+    "username": "reader_275",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0276",
+    "username": "reader_276",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0277",
+    "username": "reader_277",
+    "archetype": "General News Reader",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance",
+      "Technology",
+      "Politics",
+      "Climate & Environment",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center-Left",
+      "Center-Right",
+      "Center",
+      "Left",
+      "Right"
+    ]
+  },
+  {
+    "user_id": "usr_0278",
+    "username": "reader_278",
+    "archetype": "General News Reader",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance",
+      "Technology",
+      "Politics",
+      "Climate & Environment",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center-Left",
+      "Center-Right",
+      "Center",
+      "Left",
+      "Right"
+    ]
+  },
+  {
+    "user_id": "usr_0279",
+    "username": "reader_279",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0280",
+    "username": "reader_280",
+    "archetype": "Market & Fiscal Conservative",
+    "pref_cats": [
+      "Economy & Finance",
+      "Politics"
+    ],
+    "pref_align": [
+      "Right",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0281",
+    "username": "reader_281",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0282",
+    "username": "reader_282",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0283",
+    "username": "reader_283",
+    "archetype": "General News Reader",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance",
+      "Technology",
+      "Politics",
+      "Climate & Environment",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center-Left",
+      "Center-Right",
+      "Center",
+      "Left",
+      "Right"
+    ]
+  },
+  {
+    "user_id": "usr_0284",
+    "username": "reader_284",
+    "archetype": "Diplomacy & Global Affairs",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0285",
+    "username": "reader_285",
+    "archetype": "General News Reader",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance",
+      "Technology",
+      "Politics",
+      "Climate & Environment",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center-Left",
+      "Center-Right",
+      "Center",
+      "Left",
+      "Right"
+    ]
+  },
+  {
+    "user_id": "usr_0286",
+    "username": "reader_286",
+    "archetype": "General News Reader",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance",
+      "Technology",
+      "Politics",
+      "Climate & Environment",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center-Left",
+      "Center-Right",
+      "Center",
+      "Left",
+      "Right"
+    ]
+  },
+  {
+    "user_id": "usr_0287",
+    "username": "reader_287",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0288",
+    "username": "reader_288",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0289",
+    "username": "reader_289",
+    "archetype": "General News Reader",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance",
+      "Technology",
+      "Politics",
+      "Climate & Environment",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center-Left",
+      "Center-Right",
+      "Center",
+      "Left",
+      "Right"
+    ]
+  },
+  {
+    "user_id": "usr_0290",
+    "username": "reader_290",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0291",
+    "username": "reader_291",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0292",
+    "username": "reader_292",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0293",
+    "username": "reader_293",
+    "archetype": "General News Reader",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance",
+      "Technology",
+      "Politics",
+      "Climate & Environment",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center-Left",
+      "Center-Right",
+      "Center",
+      "Left",
+      "Right"
+    ]
+  },
+  {
+    "user_id": "usr_0294",
+    "username": "reader_294",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0295",
+    "username": "reader_295",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0296",
+    "username": "reader_296",
+    "archetype": "Diplomacy & Global Affairs",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0297",
+    "username": "reader_297",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0298",
+    "username": "reader_298",
+    "archetype": "General News Reader",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance",
+      "Technology",
+      "Politics",
+      "Climate & Environment",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center-Left",
+      "Center-Right",
+      "Center",
+      "Left",
+      "Right"
+    ]
+  },
+  {
+    "user_id": "usr_0299",
+    "username": "reader_299",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0300",
+    "username": "reader_300",
+    "archetype": "General News Reader",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance",
+      "Technology",
+      "Politics",
+      "Climate & Environment",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center-Left",
+      "Center-Right",
+      "Center",
+      "Left",
+      "Right"
+    ]
+  },
+  {
+    "user_id": "usr_0301",
+    "username": "reader_301",
+    "archetype": "General News Reader",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance",
+      "Technology",
+      "Politics",
+      "Climate & Environment",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center-Left",
+      "Center-Right",
+      "Center",
+      "Left",
+      "Right"
+    ]
+  },
+  {
+    "user_id": "usr_0302",
+    "username": "reader_302",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0303",
+    "username": "reader_303",
+    "archetype": "General News Reader",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance",
+      "Technology",
+      "Politics",
+      "Climate & Environment",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center-Left",
+      "Center-Right",
+      "Center",
+      "Left",
+      "Right"
+    ]
+  },
+  {
+    "user_id": "usr_0304",
+    "username": "reader_304",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0305",
+    "username": "reader_305",
+    "archetype": "Diplomacy & Global Affairs",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0306",
+    "username": "reader_306",
+    "archetype": "General News Reader",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance",
+      "Technology",
+      "Politics",
+      "Climate & Environment",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center-Left",
+      "Center-Right",
+      "Center",
+      "Left",
+      "Right"
+    ]
+  },
+  {
+    "user_id": "usr_0307",
+    "username": "reader_307",
+    "archetype": "General News Reader",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance",
+      "Technology",
+      "Politics",
+      "Climate & Environment",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center-Left",
+      "Center-Right",
+      "Center",
+      "Left",
+      "Right"
+    ]
+  },
+  {
+    "user_id": "usr_0308",
+    "username": "reader_308",
+    "archetype": "General News Reader",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance",
+      "Technology",
+      "Politics",
+      "Climate & Environment",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center-Left",
+      "Center-Right",
+      "Center",
+      "Left",
+      "Right"
+    ]
+  },
+  {
+    "user_id": "usr_0309",
+    "username": "reader_309",
+    "archetype": "Market & Fiscal Conservative",
+    "pref_cats": [
+      "Economy & Finance",
+      "Politics"
+    ],
+    "pref_align": [
+      "Right",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0310",
+    "username": "reader_310",
+    "archetype": "Market & Fiscal Conservative",
+    "pref_cats": [
+      "Economy & Finance",
+      "Politics"
+    ],
+    "pref_align": [
+      "Right",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0311",
+    "username": "reader_311",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0312",
+    "username": "reader_312",
+    "archetype": "Market & Fiscal Conservative",
+    "pref_cats": [
+      "Economy & Finance",
+      "Politics"
+    ],
+    "pref_align": [
+      "Right",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0313",
+    "username": "reader_313",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0314",
+    "username": "reader_314",
+    "archetype": "Market & Fiscal Conservative",
+    "pref_cats": [
+      "Economy & Finance",
+      "Politics"
+    ],
+    "pref_align": [
+      "Right",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0315",
+    "username": "reader_315",
+    "archetype": "Diplomacy & Global Affairs",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0316",
+    "username": "reader_316",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0317",
+    "username": "reader_317",
+    "archetype": "Market & Fiscal Conservative",
+    "pref_cats": [
+      "Economy & Finance",
+      "Politics"
+    ],
+    "pref_align": [
+      "Right",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0318",
+    "username": "reader_318",
+    "archetype": "Diplomacy & Global Affairs",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0319",
+    "username": "reader_319",
+    "archetype": "Market & Fiscal Conservative",
+    "pref_cats": [
+      "Economy & Finance",
+      "Politics"
+    ],
+    "pref_align": [
+      "Right",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0320",
+    "username": "reader_320",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0321",
+    "username": "reader_321",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0322",
+    "username": "reader_322",
+    "archetype": "Diplomacy & Global Affairs",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0323",
+    "username": "reader_323",
+    "archetype": "General News Reader",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance",
+      "Technology",
+      "Politics",
+      "Climate & Environment",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center-Left",
+      "Center-Right",
+      "Center",
+      "Left",
+      "Right"
+    ]
+  },
+  {
+    "user_id": "usr_0324",
+    "username": "reader_324",
+    "archetype": "General News Reader",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance",
+      "Technology",
+      "Politics",
+      "Climate & Environment",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center-Left",
+      "Center-Right",
+      "Center",
+      "Left",
+      "Right"
+    ]
+  },
+  {
+    "user_id": "usr_0325",
+    "username": "reader_325",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0326",
+    "username": "reader_326",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0327",
+    "username": "reader_327",
+    "archetype": "General News Reader",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance",
+      "Technology",
+      "Politics",
+      "Climate & Environment",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center-Left",
+      "Center-Right",
+      "Center",
+      "Left",
+      "Right"
+    ]
+  },
+  {
+    "user_id": "usr_0328",
+    "username": "reader_328",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0329",
+    "username": "reader_329",
+    "archetype": "General News Reader",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance",
+      "Technology",
+      "Politics",
+      "Climate & Environment",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center-Left",
+      "Center-Right",
+      "Center",
+      "Left",
+      "Right"
+    ]
+  },
+  {
+    "user_id": "usr_0330",
+    "username": "reader_330",
+    "archetype": "Market & Fiscal Conservative",
+    "pref_cats": [
+      "Economy & Finance",
+      "Politics"
+    ],
+    "pref_align": [
+      "Right",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0331",
+    "username": "reader_331",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0332",
+    "username": "reader_332",
+    "archetype": "Market & Fiscal Conservative",
+    "pref_cats": [
+      "Economy & Finance",
+      "Politics"
+    ],
+    "pref_align": [
+      "Right",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0333",
+    "username": "reader_333",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0334",
+    "username": "reader_334",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0335",
+    "username": "reader_335",
+    "archetype": "Market & Fiscal Conservative",
+    "pref_cats": [
+      "Economy & Finance",
+      "Politics"
+    ],
+    "pref_align": [
+      "Right",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0336",
+    "username": "reader_336",
+    "archetype": "Market & Fiscal Conservative",
+    "pref_cats": [
+      "Economy & Finance",
+      "Politics"
+    ],
+    "pref_align": [
+      "Right",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0337",
+    "username": "reader_337",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0338",
+    "username": "reader_338",
+    "archetype": "Diplomacy & Global Affairs",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0339",
+    "username": "reader_339",
+    "archetype": "General News Reader",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance",
+      "Technology",
+      "Politics",
+      "Climate & Environment",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center-Left",
+      "Center-Right",
+      "Center",
+      "Left",
+      "Right"
+    ]
+  },
+  {
+    "user_id": "usr_0340",
+    "username": "reader_340",
+    "archetype": "Market & Fiscal Conservative",
+    "pref_cats": [
+      "Economy & Finance",
+      "Politics"
+    ],
+    "pref_align": [
+      "Right",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0341",
+    "username": "reader_341",
+    "archetype": "General News Reader",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance",
+      "Technology",
+      "Politics",
+      "Climate & Environment",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center-Left",
+      "Center-Right",
+      "Center",
+      "Left",
+      "Right"
+    ]
+  },
+  {
+    "user_id": "usr_0342",
+    "username": "reader_342",
+    "archetype": "General News Reader",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance",
+      "Technology",
+      "Politics",
+      "Climate & Environment",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center-Left",
+      "Center-Right",
+      "Center",
+      "Left",
+      "Right"
+    ]
+  },
+  {
+    "user_id": "usr_0343",
+    "username": "reader_343",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0344",
+    "username": "reader_344",
+    "archetype": "General News Reader",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance",
+      "Technology",
+      "Politics",
+      "Climate & Environment",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center-Left",
+      "Center-Right",
+      "Center",
+      "Left",
+      "Right"
+    ]
+  },
+  {
+    "user_id": "usr_0345",
+    "username": "reader_345",
+    "archetype": "Market & Fiscal Conservative",
+    "pref_cats": [
+      "Economy & Finance",
+      "Politics"
+    ],
+    "pref_align": [
+      "Right",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0346",
+    "username": "reader_346",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0347",
+    "username": "reader_347",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0348",
+    "username": "reader_348",
+    "archetype": "Market & Fiscal Conservative",
+    "pref_cats": [
+      "Economy & Finance",
+      "Politics"
+    ],
+    "pref_align": [
+      "Right",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0349",
+    "username": "reader_349",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0350",
+    "username": "reader_350",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0351",
+    "username": "reader_351",
+    "archetype": "General News Reader",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance",
+      "Technology",
+      "Politics",
+      "Climate & Environment",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center-Left",
+      "Center-Right",
+      "Center",
+      "Left",
+      "Right"
+    ]
+  },
+  {
+    "user_id": "usr_0352",
+    "username": "reader_352",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0353",
+    "username": "reader_353",
+    "archetype": "Market & Fiscal Conservative",
+    "pref_cats": [
+      "Economy & Finance",
+      "Politics"
+    ],
+    "pref_align": [
+      "Right",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0354",
+    "username": "reader_354",
+    "archetype": "Market & Fiscal Conservative",
+    "pref_cats": [
+      "Economy & Finance",
+      "Politics"
+    ],
+    "pref_align": [
+      "Right",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0355",
+    "username": "reader_355",
+    "archetype": "General News Reader",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance",
+      "Technology",
+      "Politics",
+      "Climate & Environment",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center-Left",
+      "Center-Right",
+      "Center",
+      "Left",
+      "Right"
+    ]
+  },
+  {
+    "user_id": "usr_0356",
+    "username": "reader_356",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0357",
+    "username": "reader_357",
+    "archetype": "Market & Fiscal Conservative",
+    "pref_cats": [
+      "Economy & Finance",
+      "Politics"
+    ],
+    "pref_align": [
+      "Right",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0358",
+    "username": "reader_358",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0359",
+    "username": "reader_359",
+    "archetype": "Market & Fiscal Conservative",
+    "pref_cats": [
+      "Economy & Finance",
+      "Politics"
+    ],
+    "pref_align": [
+      "Right",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0360",
+    "username": "reader_360",
+    "archetype": "General News Reader",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance",
+      "Technology",
+      "Politics",
+      "Climate & Environment",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center-Left",
+      "Center-Right",
+      "Center",
+      "Left",
+      "Right"
+    ]
+  },
+  {
+    "user_id": "usr_0361",
+    "username": "reader_361",
+    "archetype": "Diplomacy & Global Affairs",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0362",
+    "username": "reader_362",
+    "archetype": "Market & Fiscal Conservative",
+    "pref_cats": [
+      "Economy & Finance",
+      "Politics"
+    ],
+    "pref_align": [
+      "Right",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0363",
+    "username": "reader_363",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0364",
+    "username": "reader_364",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0365",
+    "username": "reader_365",
+    "archetype": "Diplomacy & Global Affairs",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0366",
+    "username": "reader_366",
+    "archetype": "Market & Fiscal Conservative",
+    "pref_cats": [
+      "Economy & Finance",
+      "Politics"
+    ],
+    "pref_align": [
+      "Right",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0367",
+    "username": "reader_367",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0368",
+    "username": "reader_368",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0369",
+    "username": "reader_369",
+    "archetype": "Market & Fiscal Conservative",
+    "pref_cats": [
+      "Economy & Finance",
+      "Politics"
+    ],
+    "pref_align": [
+      "Right",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0370",
+    "username": "reader_370",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0371",
+    "username": "reader_371",
+    "archetype": "Market & Fiscal Conservative",
+    "pref_cats": [
+      "Economy & Finance",
+      "Politics"
+    ],
+    "pref_align": [
+      "Right",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0372",
+    "username": "reader_372",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0373",
+    "username": "reader_373",
+    "archetype": "Diplomacy & Global Affairs",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0374",
+    "username": "reader_374",
+    "archetype": "General News Reader",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance",
+      "Technology",
+      "Politics",
+      "Climate & Environment",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center-Left",
+      "Center-Right",
+      "Center",
+      "Left",
+      "Right"
+    ]
+  },
+  {
+    "user_id": "usr_0375",
+    "username": "reader_375",
+    "archetype": "Diplomacy & Global Affairs",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0376",
+    "username": "reader_376",
+    "archetype": "General News Reader",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance",
+      "Technology",
+      "Politics",
+      "Climate & Environment",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center-Left",
+      "Center-Right",
+      "Center",
+      "Left",
+      "Right"
+    ]
+  },
+  {
+    "user_id": "usr_0377",
+    "username": "reader_377",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0378",
+    "username": "reader_378",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0379",
+    "username": "reader_379",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0380",
+    "username": "reader_380",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0381",
+    "username": "reader_381",
+    "archetype": "General News Reader",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance",
+      "Technology",
+      "Politics",
+      "Climate & Environment",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center-Left",
+      "Center-Right",
+      "Center",
+      "Left",
+      "Right"
+    ]
+  },
+  {
+    "user_id": "usr_0382",
+    "username": "reader_382",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0383",
+    "username": "reader_383",
+    "archetype": "Market & Fiscal Conservative",
+    "pref_cats": [
+      "Economy & Finance",
+      "Politics"
+    ],
+    "pref_align": [
+      "Right",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0384",
+    "username": "reader_384",
+    "archetype": "General News Reader",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance",
+      "Technology",
+      "Politics",
+      "Climate & Environment",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center-Left",
+      "Center-Right",
+      "Center",
+      "Left",
+      "Right"
+    ]
+  },
+  {
+    "user_id": "usr_0385",
+    "username": "reader_385",
+    "archetype": "General News Reader",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance",
+      "Technology",
+      "Politics",
+      "Climate & Environment",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center-Left",
+      "Center-Right",
+      "Center",
+      "Left",
+      "Right"
+    ]
+  },
+  {
+    "user_id": "usr_0386",
+    "username": "reader_386",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0387",
+    "username": "reader_387",
+    "archetype": "Diplomacy & Global Affairs",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0388",
+    "username": "reader_388",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0389",
+    "username": "reader_389",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0390",
+    "username": "reader_390",
+    "archetype": "Market & Fiscal Conservative",
+    "pref_cats": [
+      "Economy & Finance",
+      "Politics"
+    ],
+    "pref_align": [
+      "Right",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0391",
+    "username": "reader_391",
+    "archetype": "Market & Fiscal Conservative",
+    "pref_cats": [
+      "Economy & Finance",
+      "Politics"
+    ],
+    "pref_align": [
+      "Right",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0392",
+    "username": "reader_392",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0393",
+    "username": "reader_393",
+    "archetype": "Market & Fiscal Conservative",
+    "pref_cats": [
+      "Economy & Finance",
+      "Politics"
+    ],
+    "pref_align": [
+      "Right",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0394",
+    "username": "reader_394",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0395",
+    "username": "reader_395",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0396",
+    "username": "reader_396",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0397",
+    "username": "reader_397",
+    "archetype": "Market & Fiscal Conservative",
+    "pref_cats": [
+      "Economy & Finance",
+      "Politics"
+    ],
+    "pref_align": [
+      "Right",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0398",
+    "username": "reader_398",
+    "archetype": "General News Reader",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance",
+      "Technology",
+      "Politics",
+      "Climate & Environment",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center-Left",
+      "Center-Right",
+      "Center",
+      "Left",
+      "Right"
+    ]
+  },
+  {
+    "user_id": "usr_0399",
+    "username": "reader_399",
+    "archetype": "Diplomacy & Global Affairs",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0400",
+    "username": "reader_400",
+    "archetype": "General News Reader",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance",
+      "Technology",
+      "Politics",
+      "Climate & Environment",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center-Left",
+      "Center-Right",
+      "Center",
+      "Left",
+      "Right"
+    ]
+  },
+  {
+    "user_id": "usr_0401",
+    "username": "reader_401",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0402",
+    "username": "reader_402",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0403",
+    "username": "reader_403",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0404",
+    "username": "reader_404",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0405",
+    "username": "reader_405",
+    "archetype": "Diplomacy & Global Affairs",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0406",
+    "username": "reader_406",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0407",
+    "username": "reader_407",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0408",
+    "username": "reader_408",
+    "archetype": "Market & Fiscal Conservative",
+    "pref_cats": [
+      "Economy & Finance",
+      "Politics"
+    ],
+    "pref_align": [
+      "Right",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0409",
+    "username": "reader_409",
+    "archetype": "Diplomacy & Global Affairs",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0410",
+    "username": "reader_410",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0411",
+    "username": "reader_411",
+    "archetype": "Market & Fiscal Conservative",
+    "pref_cats": [
+      "Economy & Finance",
+      "Politics"
+    ],
+    "pref_align": [
+      "Right",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0412",
+    "username": "reader_412",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0413",
+    "username": "reader_413",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0414",
+    "username": "reader_414",
+    "archetype": "Diplomacy & Global Affairs",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0415",
+    "username": "reader_415",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0416",
+    "username": "reader_416",
+    "archetype": "Diplomacy & Global Affairs",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0417",
+    "username": "reader_417",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0418",
+    "username": "reader_418",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0419",
+    "username": "reader_419",
+    "archetype": "Diplomacy & Global Affairs",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0420",
+    "username": "reader_420",
+    "archetype": "Market & Fiscal Conservative",
+    "pref_cats": [
+      "Economy & Finance",
+      "Politics"
+    ],
+    "pref_align": [
+      "Right",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0421",
+    "username": "reader_421",
+    "archetype": "Market & Fiscal Conservative",
+    "pref_cats": [
+      "Economy & Finance",
+      "Politics"
+    ],
+    "pref_align": [
+      "Right",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0422",
+    "username": "reader_422",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0423",
+    "username": "reader_423",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0424",
+    "username": "reader_424",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0425",
+    "username": "reader_425",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0426",
+    "username": "reader_426",
+    "archetype": "Diplomacy & Global Affairs",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0427",
+    "username": "reader_427",
+    "archetype": "Market & Fiscal Conservative",
+    "pref_cats": [
+      "Economy & Finance",
+      "Politics"
+    ],
+    "pref_align": [
+      "Right",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0428",
+    "username": "reader_428",
+    "archetype": "Market & Fiscal Conservative",
+    "pref_cats": [
+      "Economy & Finance",
+      "Politics"
+    ],
+    "pref_align": [
+      "Right",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0429",
+    "username": "reader_429",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0430",
+    "username": "reader_430",
+    "archetype": "Market & Fiscal Conservative",
+    "pref_cats": [
+      "Economy & Finance",
+      "Politics"
+    ],
+    "pref_align": [
+      "Right",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0431",
+    "username": "reader_431",
+    "archetype": "Market & Fiscal Conservative",
+    "pref_cats": [
+      "Economy & Finance",
+      "Politics"
+    ],
+    "pref_align": [
+      "Right",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0432",
+    "username": "reader_432",
+    "archetype": "General News Reader",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance",
+      "Technology",
+      "Politics",
+      "Climate & Environment",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center-Left",
+      "Center-Right",
+      "Center",
+      "Left",
+      "Right"
+    ]
+  },
+  {
+    "user_id": "usr_0433",
+    "username": "reader_433",
+    "archetype": "Diplomacy & Global Affairs",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0434",
+    "username": "reader_434",
+    "archetype": "General News Reader",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance",
+      "Technology",
+      "Politics",
+      "Climate & Environment",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center-Left",
+      "Center-Right",
+      "Center",
+      "Left",
+      "Right"
+    ]
+  },
+  {
+    "user_id": "usr_0435",
+    "username": "reader_435",
+    "archetype": "Market & Fiscal Conservative",
+    "pref_cats": [
+      "Economy & Finance",
+      "Politics"
+    ],
+    "pref_align": [
+      "Right",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0436",
+    "username": "reader_436",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0437",
+    "username": "reader_437",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0438",
+    "username": "reader_438",
+    "archetype": "Market & Fiscal Conservative",
+    "pref_cats": [
+      "Economy & Finance",
+      "Politics"
+    ],
+    "pref_align": [
+      "Right",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0439",
+    "username": "reader_439",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0440",
+    "username": "reader_440",
+    "archetype": "General News Reader",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance",
+      "Technology",
+      "Politics",
+      "Climate & Environment",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center-Left",
+      "Center-Right",
+      "Center",
+      "Left",
+      "Right"
+    ]
+  },
+  {
+    "user_id": "usr_0441",
+    "username": "reader_441",
+    "archetype": "Market & Fiscal Conservative",
+    "pref_cats": [
+      "Economy & Finance",
+      "Politics"
+    ],
+    "pref_align": [
+      "Right",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0442",
+    "username": "reader_442",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0443",
+    "username": "reader_443",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0444",
+    "username": "reader_444",
+    "archetype": "General News Reader",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance",
+      "Technology",
+      "Politics",
+      "Climate & Environment",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center-Left",
+      "Center-Right",
+      "Center",
+      "Left",
+      "Right"
+    ]
+  },
+  {
+    "user_id": "usr_0445",
+    "username": "reader_445",
+    "archetype": "Diplomacy & Global Affairs",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0446",
+    "username": "reader_446",
+    "archetype": "Market & Fiscal Conservative",
+    "pref_cats": [
+      "Economy & Finance",
+      "Politics"
+    ],
+    "pref_align": [
+      "Right",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0447",
+    "username": "reader_447",
+    "archetype": "Market & Fiscal Conservative",
+    "pref_cats": [
+      "Economy & Finance",
+      "Politics"
+    ],
+    "pref_align": [
+      "Right",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0448",
+    "username": "reader_448",
+    "archetype": "Diplomacy & Global Affairs",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0449",
+    "username": "reader_449",
+    "archetype": "General News Reader",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance",
+      "Technology",
+      "Politics",
+      "Climate & Environment",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center-Left",
+      "Center-Right",
+      "Center",
+      "Left",
+      "Right"
+    ]
+  },
+  {
+    "user_id": "usr_0450",
+    "username": "reader_450",
+    "archetype": "General News Reader",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance",
+      "Technology",
+      "Politics",
+      "Climate & Environment",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center-Left",
+      "Center-Right",
+      "Center",
+      "Left",
+      "Right"
+    ]
+  },
+  {
+    "user_id": "usr_0451",
+    "username": "reader_451",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0452",
+    "username": "reader_452",
+    "archetype": "Diplomacy & Global Affairs",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0453",
+    "username": "reader_453",
+    "archetype": "General News Reader",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance",
+      "Technology",
+      "Politics",
+      "Climate & Environment",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center-Left",
+      "Center-Right",
+      "Center",
+      "Left",
+      "Right"
+    ]
+  },
+  {
+    "user_id": "usr_0454",
+    "username": "reader_454",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0455",
+    "username": "reader_455",
+    "archetype": "Market & Fiscal Conservative",
+    "pref_cats": [
+      "Economy & Finance",
+      "Politics"
+    ],
+    "pref_align": [
+      "Right",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0456",
+    "username": "reader_456",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0457",
+    "username": "reader_457",
+    "archetype": "Diplomacy & Global Affairs",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0458",
+    "username": "reader_458",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0459",
+    "username": "reader_459",
+    "archetype": "General News Reader",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance",
+      "Technology",
+      "Politics",
+      "Climate & Environment",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center-Left",
+      "Center-Right",
+      "Center",
+      "Left",
+      "Right"
+    ]
+  },
+  {
+    "user_id": "usr_0460",
+    "username": "reader_460",
+    "archetype": "General News Reader",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance",
+      "Technology",
+      "Politics",
+      "Climate & Environment",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center-Left",
+      "Center-Right",
+      "Center",
+      "Left",
+      "Right"
+    ]
+  },
+  {
+    "user_id": "usr_0461",
+    "username": "reader_461",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0462",
+    "username": "reader_462",
+    "archetype": "Market & Fiscal Conservative",
+    "pref_cats": [
+      "Economy & Finance",
+      "Politics"
+    ],
+    "pref_align": [
+      "Right",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0463",
+    "username": "reader_463",
+    "archetype": "Diplomacy & Global Affairs",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0464",
+    "username": "reader_464",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0465",
+    "username": "reader_465",
+    "archetype": "Market & Fiscal Conservative",
+    "pref_cats": [
+      "Economy & Finance",
+      "Politics"
+    ],
+    "pref_align": [
+      "Right",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0466",
+    "username": "reader_466",
+    "archetype": "General News Reader",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance",
+      "Technology",
+      "Politics",
+      "Climate & Environment",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center-Left",
+      "Center-Right",
+      "Center",
+      "Left",
+      "Right"
+    ]
+  },
+  {
+    "user_id": "usr_0467",
+    "username": "reader_467",
+    "archetype": "Market & Fiscal Conservative",
+    "pref_cats": [
+      "Economy & Finance",
+      "Politics"
+    ],
+    "pref_align": [
+      "Right",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0468",
+    "username": "reader_468",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0469",
+    "username": "reader_469",
+    "archetype": "Market & Fiscal Conservative",
+    "pref_cats": [
+      "Economy & Finance",
+      "Politics"
+    ],
+    "pref_align": [
+      "Right",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0470",
+    "username": "reader_470",
+    "archetype": "General News Reader",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance",
+      "Technology",
+      "Politics",
+      "Climate & Environment",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center-Left",
+      "Center-Right",
+      "Center",
+      "Left",
+      "Right"
+    ]
+  },
+  {
+    "user_id": "usr_0471",
+    "username": "reader_471",
+    "archetype": "Market & Fiscal Conservative",
+    "pref_cats": [
+      "Economy & Finance",
+      "Politics"
+    ],
+    "pref_align": [
+      "Right",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0472",
+    "username": "reader_472",
+    "archetype": "Diplomacy & Global Affairs",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0473",
+    "username": "reader_473",
+    "archetype": "Market & Fiscal Conservative",
+    "pref_cats": [
+      "Economy & Finance",
+      "Politics"
+    ],
+    "pref_align": [
+      "Right",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0474",
+    "username": "reader_474",
+    "archetype": "Diplomacy & Global Affairs",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0475",
+    "username": "reader_475",
+    "archetype": "Market & Fiscal Conservative",
+    "pref_cats": [
+      "Economy & Finance",
+      "Politics"
+    ],
+    "pref_align": [
+      "Right",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0476",
+    "username": "reader_476",
+    "archetype": "General News Reader",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance",
+      "Technology",
+      "Politics",
+      "Climate & Environment",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center-Left",
+      "Center-Right",
+      "Center",
+      "Left",
+      "Right"
+    ]
+  },
+  {
+    "user_id": "usr_0477",
+    "username": "reader_477",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0478",
+    "username": "reader_478",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0479",
+    "username": "reader_479",
+    "archetype": "Diplomacy & Global Affairs",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0480",
+    "username": "reader_480",
+    "archetype": "Diplomacy & Global Affairs",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0481",
+    "username": "reader_481",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0482",
+    "username": "reader_482",
+    "archetype": "General News Reader",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance",
+      "Technology",
+      "Politics",
+      "Climate & Environment",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center-Left",
+      "Center-Right",
+      "Center",
+      "Left",
+      "Right"
+    ]
+  },
+  {
+    "user_id": "usr_0483",
+    "username": "reader_483",
+    "archetype": "General News Reader",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance",
+      "Technology",
+      "Politics",
+      "Climate & Environment",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center-Left",
+      "Center-Right",
+      "Center",
+      "Left",
+      "Right"
+    ]
+  },
+  {
+    "user_id": "usr_0484",
+    "username": "reader_484",
+    "archetype": "Market & Fiscal Conservative",
+    "pref_cats": [
+      "Economy & Finance",
+      "Politics"
+    ],
+    "pref_align": [
+      "Right",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0485",
+    "username": "reader_485",
+    "archetype": "Diplomacy & Global Affairs",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0486",
+    "username": "reader_486",
+    "archetype": "General News Reader",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance",
+      "Technology",
+      "Politics",
+      "Climate & Environment",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center-Left",
+      "Center-Right",
+      "Center",
+      "Left",
+      "Right"
+    ]
+  },
+  {
+    "user_id": "usr_0487",
+    "username": "reader_487",
+    "archetype": "Tech Enthusiast",
+    "pref_cats": [
+      "Technology",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0488",
+    "username": "reader_488",
+    "archetype": "Market & Fiscal Conservative",
+    "pref_cats": [
+      "Economy & Finance",
+      "Politics"
+    ],
+    "pref_align": [
+      "Right",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0489",
+    "username": "reader_489",
+    "archetype": "Market & Fiscal Conservative",
+    "pref_cats": [
+      "Economy & Finance",
+      "Politics"
+    ],
+    "pref_align": [
+      "Right",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0490",
+    "username": "reader_490",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0491",
+    "username": "reader_491",
+    "archetype": "Diplomacy & Global Affairs",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0492",
+    "username": "reader_492",
+    "archetype": "General News Reader",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance",
+      "Technology",
+      "Politics",
+      "Climate & Environment",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center-Left",
+      "Center-Right",
+      "Center",
+      "Left",
+      "Right"
+    ]
+  },
+  {
+    "user_id": "usr_0493",
+    "username": "reader_493",
+    "archetype": "General News Reader",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance",
+      "Technology",
+      "Politics",
+      "Climate & Environment",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center-Left",
+      "Center-Right",
+      "Center",
+      "Left",
+      "Right"
+    ]
+  },
+  {
+    "user_id": "usr_0494",
+    "username": "reader_494",
+    "archetype": "Market & Fiscal Conservative",
+    "pref_cats": [
+      "Economy & Finance",
+      "Politics"
+    ],
+    "pref_align": [
+      "Right",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0495",
+    "username": "reader_495",
+    "archetype": "Diplomacy & Global Affairs",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0496",
+    "username": "reader_496",
+    "archetype": "Diplomacy & Global Affairs",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0497",
+    "username": "reader_497",
+    "archetype": "Diplomacy & Global Affairs",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left",
+      "Center-Right"
+    ]
+  },
+  {
+    "user_id": "usr_0498",
+    "username": "reader_498",
+    "archetype": "Progressive Eco-Advocate",
+    "pref_cats": [
+      "Climate & Environment",
+      "Politics"
+    ],
+    "pref_align": [
+      "Left",
+      "Center-Left"
+    ]
+  },
+  {
+    "user_id": "usr_0499",
+    "username": "reader_499",
+    "archetype": "General News Reader",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance",
+      "Technology",
+      "Politics",
+      "Climate & Environment",
+      "Healthcare & Science"
+    ],
+    "pref_align": [
+      "Center-Left",
+      "Center-Right",
+      "Center",
+      "Left",
+      "Right"
+    ]
+  },
+  {
+    "user_id": "usr_0500",
+    "username": "reader_500",
+    "archetype": "Diplomacy & Global Affairs",
+    "pref_cats": [
+      "World & Diplomacy",
+      "Economy & Finance"
+    ],
+    "pref_align": [
+      "Center",
+      "Center-Left",
+      "Center-Right"
+    ]
+  }
+]
