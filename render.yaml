@@ -1,0 +1,29 @@
+services:
+  # 1. Python ML Recommendation Engine
+  - type: web
+    name: newstailor-ml-engine
+    env: python
+    rootDir: ml_engine
+    plan: free
+    buildCommand: "pip install -r requirements.txt"
+    startCommand: "uvicorn api_service:app --host 0.0.0.0 --port $PORT"
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.10.11
+
+  # 2. Node.js Express Backend API
+  - type: web
+    name: newstailor-backend
+    env: node
+    rootDir: backend
+    plan: free
+    buildCommand: "npm install"
+    startCommand: "node server.js"
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: ML_ENGINE_URL
+        fromService:
+          type: web
+          name: newstailor-ml-engine
+          property: host
